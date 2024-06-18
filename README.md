@@ -1,5 +1,5 @@
 # Algorithm-Visualizer
-This one is still a work in process!!!
+This one is still a work in progress!!!
 
 Welcome to my Algorithm Visualizer project! This project allows you to visualize various sorting algorithms in action, providing an educational and interactive experience.
 
